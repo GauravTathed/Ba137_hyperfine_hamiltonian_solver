@@ -1,4 +1,4 @@
-from .ba137_hyperfine import (
+from .ba137_hyperfine_hamiltonian_solver import (
     spin_matrices,
     transformToFMFBasis,
     clebschgordan1,

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Ba137_hyperfine_hamiltonian_solver"
-version = "0.1.1"
+version = "0.1.2"
 description = "Hyperfine Hamiltonians, transition frequencies, and strengths for 137Ba+"
 readme = "README.md"
 requires-python = ">=3.9"
