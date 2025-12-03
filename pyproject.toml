@@ -23,4 +23,4 @@ Homepage = "https://github.com/GauravTathed/Ba137_hyperfine_hamiltonian_solver"
 Issues = "https://github.com/GauravTathed/Ba137_hyperfine_hamiltonian_solver/issues"
 
 [tool.setuptools.packages.find]
-where = ["src"]
+where = ["ba137_hyperfine_hamiltonian_solver"]
